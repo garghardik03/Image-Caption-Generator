@@ -1,0 +1,9 @@
+numpy
+matplotlib
+keras
+tensorflow
+Pillow
+glob2
+tqdm
+gtts
+nltk
